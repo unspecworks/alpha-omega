@@ -5,7 +5,7 @@
 
 A hand-wired 3x5+5 Split ergo keyboard.
 
-![ao](images/alphaomega.jpg)
+![ao](alphaomega.jpg)
 
 ## Features
 
